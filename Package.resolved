@@ -3,11 +3,11 @@
     "pins": [
       {
         "package": "SDWebImage",
-        "repositoryURL": "https://github.com/SDWebImage/SDWebImage.git",
+        "repositoryURL": "https://github.com/BogdanShmatov/SDWebImage.git",
         "state": {
-          "branch": null,
-          "revision": "73b9397cfbd902f606572964055464903b1d84c6",
-          "version": "5.19.0"
+          "branch": "master",
+          "revision": "8c151f108b6b6714e2b43b8d1bf6cc1bf5bf12a1",
+          "version": null
         }
       }
     ]
