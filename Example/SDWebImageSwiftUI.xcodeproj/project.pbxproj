@@ -1889,10 +1889,10 @@
 /* Begin XCRemoteSwiftPackageReference section */
 		3294617A2AA36734009E391B /* XCRemoteSwiftPackageReference "SDWebImageSwiftUI" */ = {
 			isa = XCRemoteSwiftPackageReference;
-			repositoryURL = "https://github.com/SDWebImage/SDWebImageSwiftUI.git";
+			repositoryURL = "https://github.com/BogdanShmatov/SDWebImageSwiftUI";
 			requirement = {
-				kind = upToNextMajorVersion;
-				minimumVersion = 2.2.3;
+				branch = master;
+				kind = branch;
 			};
 		};
 		32ABE4D72AA3753300331406 /* XCRemoteSwiftPackageReference "SDWebImageWebPCoder" */ = {

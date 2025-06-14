@@ -2,12 +2,57 @@
   "object": {
     "pins": [
       {
+        "package": "libwebp",
+        "repositoryURL": "https://github.com/SDWebImage/libwebp-Xcode.git",
+        "state": {
+          "branch": null,
+          "revision": "0d60654eeefd5d7d2bef3835804892c40225e8b2",
+          "version": "1.5.0"
+        }
+      },
+      {
         "package": "SDWebImage",
-        "repositoryURL": "https://github.com/BogdanShmatov/SDWebImage.git",
+        "repositoryURL": "https://github.com/SDWebImage/SDWebImage.git",
         "state": {
           "branch": "master",
           "revision": "8c151f108b6b6714e2b43b8d1bf6cc1bf5bf12a1",
           "version": null
+        }
+      },
+      {
+        "package": "SDWebImagePDFCoder",
+        "repositoryURL": "https://github.com/SDWebImage/SDWebImagePDFCoder",
+        "state": {
+          "branch": null,
+          "revision": "2aecb0a16e4d054c7f36a140f7feef6e1ede7bb6",
+          "version": "1.0.1"
+        }
+      },
+      {
+        "package": "SDWebImageSVGCoder",
+        "repositoryURL": "https://github.com/SDWebImage/SDWebImageSVGCoder",
+        "state": {
+          "branch": null,
+          "revision": "85b5d58ad02c207c496fa34426dc6560d6ae32f0",
+          "version": "1.8.0"
+        }
+      },
+      {
+        "package": "SDWebImageWebPCoder",
+        "repositoryURL": "https://github.com/SDWebImage/SDWebImageWebPCoder.git",
+        "state": {
+          "branch": null,
+          "revision": "f534cfe830a7807ecc3d0332127a502426cfa067",
+          "version": "0.14.6"
+        }
+      },
+      {
+        "package": "ViewInspector",
+        "repositoryURL": "https://github.com/nalexn/ViewInspector.git",
+        "state": {
+          "branch": null,
+          "revision": "ac7df67c4e0593470eda90a550f8493a81609745",
+          "version": "0.9.2"
         }
       }
     ]
